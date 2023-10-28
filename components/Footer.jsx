@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="footer-container">
       <p>2022 JSM Headphones All rights reserved</p>
       <p className="icons">
-       < AiFillInstagram />
+      <a href='https://www.instagram.com/' target='_blank'> < AiFillInstagram /></a>
        < AiOutlineTwitter />
       </p>
     </div>
